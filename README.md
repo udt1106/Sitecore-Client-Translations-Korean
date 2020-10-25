@@ -1,1 +1,0 @@
-Sitecore Client Translations Korean
